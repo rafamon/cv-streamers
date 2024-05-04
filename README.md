@@ -36,9 +36,11 @@ To run this project locally, you'll need to set up your own configuration file t
 1. Create a `.env` file in the root directory of the project.
 2. Add your Twitch API and Discord credentials to the `.env` file in the following format:
 
-TWITCH_CLIENT_ID=your_twitch_client_id
-TWITCH_CLIENT_SECRET=your_twitch_client_secret
-DISCORD_TOKEN=your_discord_token
+    TWITCH_CLIENT_ID=your_twitch_client_id
+   
+    TWITCH_CLIENT_SECRET=your_twitch_client_secret
+   
+    DISCORD_TOKEN=your_discord_token
 
 Replace `your_twitch_client_id`, `your_twitch_client_secret` and `your_discord_token` with your own credentials obtained from the respective platforms.
 
